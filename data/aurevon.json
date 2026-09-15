@@ -1,0 +1,49 @@
+{
+    "pieces": [
+        {
+            "id": 1,
+            "title": "Quiet Tide",
+            "artist": "M. Sorenson",
+            "price": "$4,200",
+            "image": "https://picsum.photos/seed/aurevon-tide/600/750"
+        },
+        {
+            "id": 2,
+            "title": "Ash & Ember",
+            "artist": "R. Okafor",
+            "price": "$6,800",
+            "image": "https://picsum.photos/seed/aurevon-ember/600/750"
+        },
+        {
+            "id": 3,
+            "title": "Standing Water",
+            "artist": "L. Vance",
+            "price": "$3,100",
+            "image": "https://picsum.photos/seed/aurevon-water/600/750"
+        },
+        {
+            "id": 4,
+            "title": "Field Study No. 4",
+            "artist": "M. Sorenson",
+            "price": "$5,400",
+            "image": "https://picsum.photos/seed/aurevon-field/600/750"
+        },
+        {
+            "id": 5,
+            "title": "Interior, Late Light",
+            "artist": "J. Petrov",
+            "price": "$7,900",
+            "image": "https://picsum.photos/seed/aurevon-interior/600/750"
+        },
+        {
+            "id": 6,
+            "title": "Unmade",
+            "artist": "R. Okafor",
+            "price": "$2,600",
+            "image": "https://picsum.photos/seed/aurevon-unmade/600/750"
+        }
+    ],
+    "reservations": [],
+    "waitlist": [],
+    "inquiries": []
+}
